@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Git upload project
+        Git upload project origin master
       </header>
     </div>
   );
